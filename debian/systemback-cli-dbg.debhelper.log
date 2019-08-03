@@ -1,0 +1,13 @@
+dh_installdirs
+dh_install
+dh_link
+dh_fixperms
+dh_makeshlibs
+dh_shlibdeps
+dh_installdeb
+dh_gencontrol
+dh_installdocs
+dh_installchangelogs
+dh_lintian
+dh_compress
+dh_builddeb

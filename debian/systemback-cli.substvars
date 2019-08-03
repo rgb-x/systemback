@@ -1,0 +1,3 @@
+shlibs:Depends=libc6 (>= 2.14), libncursesw5 (>= 6), libqt5core5a (>= 5.9.0~beta), libstdc++6 (>= 4.1.1), libsystemback (= 1.8.402~ubuntu16.04.3), libtinfo5 (>= 6)
+misc:Depends=
+misc:Pre-Depends=

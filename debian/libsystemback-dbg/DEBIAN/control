@@ -1,0 +1,17 @@
+Package: libsystemback-dbg
+Source: systemback
+Version: 1.8.402~ubuntu16.04.3
+Architecture: amd64
+Maintainer: Kende Krisztián <nemh@freemail.hu>
+Installed-Size: 457
+Depends: libsystemback (= 1.8.402~ubuntu16.04.3)
+Section: debug
+Priority: extra
+Description: Debug symbols for libsystemback
+ Systemback makes it easy to create backups of the system and the users
+ configuration files. In case of problems you can easily restore the previous
+ state of the system. There are extra features like system copying, system
+ installation and Live system creation.
+ .
+ This package contains the debug symbols for libsystemback.
+Build-Ids: c83ec6ba22e88d9985fadfe8f38c633a8531a0bc

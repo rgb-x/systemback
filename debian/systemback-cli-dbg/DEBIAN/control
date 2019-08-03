@@ -1,0 +1,17 @@
+Package: systemback-cli-dbg
+Source: systemback
+Version: 1.8.402~ubuntu16.04.3
+Architecture: amd64
+Maintainer: Kende Krisztián <nemh@freemail.hu>
+Installed-Size: 132
+Depends: systemback-cli (= 1.8.402~ubuntu16.04.3)
+Section: debug
+Priority: extra
+Description: Debug symbols for systemback-cli
+ Systemback makes it easy to create backups of the system and the users
+ configuration files. In case of problems you can easily restore the previous
+ state of the system. There are extra features like system copying, system
+ installation and Live system creation.
+ .
+ This package contains the debug symbols for systemback-cli.
+Build-Ids: 23ace37ba9191a6e6dc4cc80cd293fcfedc96750

@@ -1,0 +1,16 @@
+Package: libsystemback
+Source: systemback
+Version: 1.8.402~ubuntu16.04.3
+Architecture: amd64
+Maintainer: Kende Krisztián <nemh@freemail.hu>
+Installed-Size: 267
+Depends: libblkid1 (>= 2.17.2), libc6 (>= 2.14), libmount1 (>= 2.19.1), libparted2 (>= 3.1), libqt5core5a (>= 5.9.0~beta), libstdc++6 (>= 4.1.1), apt, procps
+Section: libs
+Priority: optional
+Description: Systemback shared library
+ Systemback makes it easy to create backups of the system and the users
+ configuration files. In case of problems you can easily restore the previous
+ state of the system. There are extra features like system copying, system
+ installation and Live system creation.
+ .
+ This package contain a shared library for Systemback binaries.

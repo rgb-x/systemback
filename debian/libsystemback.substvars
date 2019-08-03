@@ -1,0 +1,3 @@
+shlibs:Depends=libblkid1 (>= 2.17.2), libc6 (>= 2.14), libmount1 (>= 2.19.1), libparted2 (>= 3.1), libqt5core5a (>= 5.9.0~beta), libstdc++6 (>= 4.1.1)
+misc:Depends=
+misc:Pre-Depends=
